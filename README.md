@@ -2,7 +2,7 @@
 
 My solutions from [NeetCode](https://neetcode.io), one folder per problem, all in Kotlin. I do the practice in the language I write Android in, so the habits carry over.
 
-Nobody commits here by hand. NeetCode's GitHub integration pushes each submission as a commit titled `Add: <problem> - submission-N`, and that is the only reason the files look the way they do.
+The solution files are not committed by hand. NeetCode's GitHub integration pushes each submission as a commit titled `Add: <problem> - submission-N`, and that is the only reason the files look the way they do. The README is the one thing I edit.
 
 ## What is in the tree
 
