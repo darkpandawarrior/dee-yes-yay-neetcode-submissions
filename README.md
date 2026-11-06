@@ -1,8 +1,8 @@
 # NeetCode submissions in Kotlin
 
-My accepted solutions from [NeetCode](https://neetcode.io), one folder per problem, all in Kotlin. I do the practice in the language I write Android in, so the habits carry over.
+My solutions from [NeetCode](https://neetcode.io), one folder per problem, all in Kotlin. I do the practice in the language I write Android in, so the habits carry over.
 
-Nobody commits here by hand. NeetCode's GitHub integration pushes each accepted submission as a commit titled `Add: <problem> - submission-N`, and that is the only reason the files look the way they do.
+Nobody commits here by hand. NeetCode's GitHub integration pushes each submission as a commit titled `Add: <problem> - submission-N`, and that is the only reason the files look the way they do.
 
 ## What is in the tree
 
@@ -43,4 +43,4 @@ The gaps are real. There is no trie, no backtracking and only three DP problems 
 
 ## Running one
 
-There is no build file. To try a solution, paste it into a scratch Kotlin file or the NeetCode editor along with the helper type it needs. Nothing here is tested beyond NeetCode's own judge, which is what accepted means.
+There is no build file. To try a solution, paste it into a scratch Kotlin file or the NeetCode editor along with the helper type it needs. Nothing here is tested beyond NeetCode's own judge.
