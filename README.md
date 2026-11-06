@@ -17,7 +17,7 @@ Data Structures & Algorithms/
     submission-0.kt
 ```
 
-Each file is just the `Solution` class NeetCode asks for, with its own helper types (`ListNode`, `TreeNode`) supplied by the site, so a single file does not compile on its own.
+Each file is just the class NeetCode asks for (`Solution`, except `MedianFinder` and `Codec` in two folders), with its own helper types (`ListNode`, `TreeNode`) supplied by the site, so a single file does not compile on its own.
 
 ## How the 56 split by topic
 
